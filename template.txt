@@ -1,0 +1,24 @@
+# MACHINE_NAME (DIFFICULTY)
+---
+# TARGET
+## IP: X.X.X.X
+## USER.TXT: -
+## ROOT.TXT: -
+---
+# ENUM
+## NMAP
+```R
+```
+## GOBUSTER
+### VHOSTS / SUBDOMAINS
+```R
+```
+### DIRECTORIES
+```R
+```
+---
+# EXPLOIT
+---
+# POST
+---
+# LESSON LEANRED
