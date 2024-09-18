@@ -9,7 +9,7 @@
 ## NMAP
 ```R
 ```
-## GOBUSTER
+## FFUF
 ### VHOSTS / SUBDOMAINS
 ```R
 ```
