@@ -1,5 +1,3 @@
-# MACHINE_NAME (DIFFICULTY)
----
 # TARGET
 ## IP: X.X.X.X
 ## USER.TXT: -
