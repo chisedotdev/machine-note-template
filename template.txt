@@ -4,9 +4,22 @@
 ## ROOT.TXT: -
 ---
 # ENUM
+## CHECKLIST
+- [ ] Scan all ports using `rustscanall`
+- [ ] Scan detailed ports using `nmap`
+- [ ] Scan for vhosts and subdomains using `bffuf` with normal list and list from `cewl` result
+- [ ] Scan for directories using `bffuf` with normal list and list from `cewl` result
+---
 ## NMAP
+`all`
 ```R
+
 ```
+`detailed`
+```R
+
+```
+
 ## FFUF
 ### VHOSTS / SUBDOMAINS
 ```R
@@ -18,5 +31,10 @@
 # EXPLOIT
 ---
 # POST
+---
+# NOTES
+## REMINDER
+- always perform a `linpeas`/`winpeas` scan when you have an access to the victim machine
+- do not forget to do `username`/`password` spraying if you have a valid credential
 ---
 # LESSON LEANRED
